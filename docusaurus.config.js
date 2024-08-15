@@ -11,7 +11,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'yjkwon07', // Usually your GitHub org/user name.
-  projectName: 'ventos-util-lib', // Usually your repo name.
+  projectName: 'ventos-util-lib-doc', // Usually your repo name.
 
   presets: [
     [
