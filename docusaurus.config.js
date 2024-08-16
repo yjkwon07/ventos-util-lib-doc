@@ -36,7 +36,7 @@ module.exports = {
         items: [
           {
             type: 'doc',
-            docId: 'allEqual',
+            docId: 'intro',
             position: 'left',
             label: 'Docs',
           },
@@ -50,7 +50,7 @@ module.exports = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/allEqual',
+                to: '/docs/intro',
               },
             ],
           },
