@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'ventos-util-lib',
-  tagline: 'Dinosaurs are cool',
+  tagline: '',
   url: 'https://yjkwon07.github.io',
   baseUrl: '/ventos-util-lib-doc/',
   onBrokenLinks: 'throw',
@@ -36,7 +36,7 @@ module.exports = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'allEqual',
             position: 'left',
             label: 'Docs',
           },
@@ -50,7 +50,7 @@ module.exports = {
             items: [
               {
                 label: 'Docs',
-                to: '/docs/intro',
+                to: '/docs/allEqual',
               },
             ],
           },
